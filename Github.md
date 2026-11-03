@@ -1,4 +1,5 @@
 Powershel Process.
+Download Git language x64
 git --version
 git config --global user.email "bhuvankumar6317@gmail.com"
 git config --global user.name "bhuvan17-tech"
