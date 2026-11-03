@@ -13,7 +13,7 @@ git push -u origin master
 For Create New Branch
 git branch test         
 
-For know how we have branch
+For How many branches do we have?
 git branch
 
 For switch Branches
