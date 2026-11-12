@@ -369,3 +369,15 @@ h3a = soup.find_all('h3')
 for h3 in h3a:
     print(h3.a['title'])
 '''
+'''
+def divide_finally(a,b):
+    try:
+        print(a/b)
+    except ZeroDivisionError:
+        print("Error: Division by zero is not allowed.")
+    finally:
+        print("All exceptions finished.")
+
+divide_finally(1, 2)
+divide_finally(10, 0)
+'''
