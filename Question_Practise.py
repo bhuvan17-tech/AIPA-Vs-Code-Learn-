@@ -96,7 +96,7 @@ class functions:
 object = functions()
 object.prime()
 '''
-
+'''
 num = int(input("Enter a number: "))
 count = 0
 for i in range(1, num + 1):
@@ -106,3 +106,10 @@ if count == 2:
     print(f"The {num} is prime. ")
 else:
     print(f"The {num} is not prime. ")
+'''
+'''
+# For reversed code 
+num = input("Enter a number for reversed : ")
+reverse = num[::-1]
+print(f"The reverse number is: {reverse}")
+'''
