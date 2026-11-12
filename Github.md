@@ -22,3 +22,5 @@ git checkout test
 
 For learning Github Branches Website.
 https://learngitbranching.js.org/
+
+Setting suggest for autocode search in vs code inline suggestion and press Click
